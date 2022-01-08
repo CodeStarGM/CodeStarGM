@@ -2,10 +2,10 @@
 
 ## Software Engineer, Gamer, Developer, and Teacher!!
 
-- 🔭 Launching react design system soon (stay tuned)
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Launching a great platform for programmers (stay tuned)
+- 🌱 I’m currently learning Python/Django
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Get a remote front-end developer Job
+- 🥅 2022 Goals: Get a remote front-end developer Job
 - ⚡ Fun fact: I can learn anything in just 1 day
 
 ### Don't be Stranger:
