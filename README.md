@@ -1,12 +1,12 @@
 ### Hey Stranger, I'm Ghous Muhammad - aka [CodeStarGM][website] 👋
 
-## Software Engineer, Gamer, Developer, and Teacher!!
+## Self-taught Software Engineer, Senior Front-end Developer, Teacher, and a Guy who hates Universities🔥
 
 - 🔭 Launching a great platform for programmers (stay tuned)
-- 🌱 I’m currently learning Python/Django
+- 🌱 I’m currently learning Everything
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Get a remote front-end developer Job
-- ⚡ Fun fact: I can learn anything in just 1 day
+- ⚡ Fun fact: I prefer Coke🥤 over Coffee☕
 
 ### Don't be Stranger:
 
