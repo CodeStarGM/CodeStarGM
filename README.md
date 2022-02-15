@@ -8,12 +8,6 @@
 - 🥅 2022 Goals: Get a remote front-end developer Job
 - ⚡ Fun fact: I prefer Coke🥤 over Coffee☕
 
-### Don't be Stranger:
-
-[<img align="left" alt="CodeStarGM" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" />][website]
-[<img align="left" alt="CodeStarGM | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="CodeStarGM | Instagram" width="22px" src="https://www.freepnglogos.com/uploads/download-instagram-png-logo-20.png" />][instagram]
-[<img align="left" alt="CodeStarGM | Twitter" width="22px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />][twitter]
 
 <br />
 
