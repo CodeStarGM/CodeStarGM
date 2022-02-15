@@ -1,6 +1,6 @@
 ### Hey Stranger, I'm Ghous Muhammad - aka [CodeStarGM][website] 👋
 
-## Self-taught Software Engineer, Senior Front-end Developer, Teacher, and a Guy who hates Universities🔥
+## Software Engineer, Senior Front-end Developer, Teacher, and a Guy who hates Universities🔥
 
 - 🔭 Launching a great platform for programmers (stay tuned)
 - 🌱 I’m currently learning Everything
