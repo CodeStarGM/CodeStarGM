@@ -1,45 +1,45 @@
-### Hey Stranger, I'm Ghous Muhammad - aka [CodeStarGM][website] 👋
+
+### Hey Dr.Strange, I'm Ghous Muhammad - aka [CodeStarGM][website]<img src="https://rahulgrover99.github.io/images/hey.gif" width="32px">
 
 ## Software Engineer, Senior Front-end Developer, Teacher, and a Guy who hates Universities🔥
+<img style="width:400px; height:250px;" align="right" src="https://i.ibb.co/jVFmgZs/toothless.png"/>
 
-- 🔭 Launching a great platform for programmers (stay tuned)
+- 😍 Helping Junior Devs
+- 🤓 Love To Solve Problems
+- 🔭 Building Apps To Help The World
 - 🌱 I’m currently learning Everything
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Get a remote front-end developer Job
+- 🥅 2022 Goals: Build a Startup
 - ⚡ Fun fact: I prefer Coke🥤 over Coffee☕
 
+## Don't Be Stranger<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/shake.gif" width='140px' align='right'/>
 
-<br />
 
-### Languages and Tools:
+[![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codestar0_0)
+[![Skill](https://img.shields.io/badge/Email-ff4d4d?style=for-the-badge&logo=gmail&logoColor=white)](codestargm@gmail.com)
+[![Skill](https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/CodeStarGM)
+[![Skill](https://img.shields.io/badge/Portfolio-ccff33?style=for-the-badge&logo=web&logoColor=white)][website]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
+## Weapons/SuperPowers
+<img src='https://github.com/CodeStarGM/programming-icons/blob/master/html.png?raw=true' width='40px' height='40px' align='left'  />
+<img src='https://raw.githubusercontent.com/CodeStarGM/programming-icons/master/css.png' width='40px' height='40px' align='left' />
+<img src='https://raw.githubusercontent.com/CodeStarGM/programming-icons/master/js.png' width='40px' height='40px' align='left' />
+<img src='https://raw.githubusercontent.com/CodeStarGM/programming-icons/master/git.png' width='40px' height='40px' align='left' />
+<img src='https://raw.githubusercontent.com/CodeStarGM/programming-icons/master/github.png' width='40px' height='40px' align='left' />
+<img src='https://raw.githubusercontent.com/CodeStarGM/programming-icons/master/react.png' width='60px' height='40px' align='left' />
+<img src='https://raw.githubusercontent.com/CodeStarGM/programming-icons/master/next.png' width='40px' height='40px' align='left' />
+<img src='https://raw.githubusercontent.com/CodeStarGM/programming-icons/master/firebase.png' width='40px' height='40px' align='left' />
+<img src='https://raw.githubusercontent.com/CodeStarGM/programming-icons/master/tailwind.png' width='40px' height='40px' align='left' />
+<img src='https://raw.githubusercontent.com/CodeStarGM/programming-icons/master/bootstrap.png' width='40px' height='40px' align='left' />
+<img src='https://raw.githubusercontent.com/CodeStarGM/programming-icons/master/python.png' width='60px' height='40px' align='left' />
+<img src='https://raw.githubusercontent.com/CodeStarGM/programming-icons/master/django.png' width='40px' height='40px' align='left' />
+<img src='https://raw.githubusercontent.com/CodeStarGM/programming-icons/master/vscode.png' width='60px' height='40px' align='left' />
+<img src='https://raw.githubusercontent.com/CodeStarGM/programming-icons/master/command.png' width='40px' height='40px' align='left' />
+<img src='https://raw.githubusercontent.com/CodeStarGM/programming-icons/master/ps.png' width='40px' height='40px' align='left' />
 
-[<img align="left" alt="Firebase" width="26px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />][website]
 
-[<img align="left" alt="PHP" width="26px" src="http://pngimg.com/uploads/php/php_PNG27.png" />][website]
 
-[<img align="left" alt="Django" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />][website]
 
-[<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />][website]
 
-[<img align="left" alt="Figma" width="26px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/figma-1-logo.png" />][website]
+[website]: https://github.com/CodeStarGM
 
-[<img align="left" alt="Photoshop" width="26px" src="http://pngimg.com/uploads/photoshop/photoshop_PNG11.png" />][website]
-
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-
-<br />
-
----
-
-[website]: https://codefolio-156e3.web.app/
-[twitter]: https://twitter.com/codestar_tweets
-[instagram]: https://www.instagram.com/codestargm/
-[linkedin]: https://www.linkedin.com/in/ghous-muhammad-4730041a3/
