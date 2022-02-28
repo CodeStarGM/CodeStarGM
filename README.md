@@ -4,6 +4,7 @@
 ## Software Engineer, Senior Front-end Developer, Teacher, and a Guy who hates Universities🔥
 <img style="width:400px; height:250px;" align="right" src="https://i.ibb.co/jVFmgZs/toothless.png"/>
 
+- 🖤 Linux Is Love
 - 😍 Helping Junior Devs
 - 🤓 Love To Solve Problems
 - 🔭 Building Apps To Help The World
