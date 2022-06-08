@@ -13,7 +13,7 @@
 - 🥅 2022 Goals: Build a Startup
 - ⚡ Fun fact: I prefer Coke🥤 over Coffee☕
 
-## Don't Be Stranger<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/shake.gif" width='140px' align='right'/>
+## Don't Be Stranger<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/shake.gif" width='40px' align='right'/>
 
 
 [![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codestar0_0)
