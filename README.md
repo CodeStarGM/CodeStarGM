@@ -1,5 +1,5 @@
 
-### Hey Stranger, I'm Ghous Muhammad - aka [CodeStarGM][website]<img src="https://rahulgrover99.github.io/images/hey.gif" width="32px">
+### Hey Stranger, I'm Ghous Muhammad - aka [CodeStarGM][website]
 
 ## Software Engineer, Senior Front-end Developer, Teacher, and a Guy who hates Universities🔥
 <img style="width:400px; height:250px;" align="right" src="https://i.ibb.co/jVFmgZs/toothless.png"/>
