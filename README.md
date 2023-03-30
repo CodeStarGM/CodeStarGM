@@ -10,13 +10,13 @@
 - 🔭 Building Apps To Help The World
 - 🌱 I’m currently learning Everything
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Build a Startup
+- 🥅 2023 Goals: ACE coding interviews with DSA
 - ⚡ Fun fact: I prefer Coke🥤 over Coffee☕
 
 ## Don't Be Stranger
 
 
-[![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codestar0_0)
+[![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codestargm)
 [![Skill](https://img.shields.io/badge/Email-ff4d4d?style=for-the-badge&logo=gmail&logoColor=white)](codestargm@gmail.com)
 [![Skill](https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/CodeStarGM)
 [![Skill](https://img.shields.io/badge/Portfolio-ccff33?style=for-the-badge&logo=google&logoColor=white)][website]
@@ -35,5 +35,5 @@
 
 
 
-[website]: https://github.com/CodeStarGM
+[website]: https://codestargm.vercel.app/
 
