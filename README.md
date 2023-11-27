@@ -10,16 +10,9 @@
 - 🔭 Building Apps To Help The World
 - 🌱 I’m currently learning Everything
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: ACE coding interviews with DSA
+- 🥅 2024 Goals: Master Data Structures & Algorithms
 - ⚡ Fun fact: I prefer Coke🥤 over Coffee☕
 
-## Don't Be Stranger
-
-
-[![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codestargm)
-[![Skill](https://img.shields.io/badge/Email-ff4d4d?style=for-the-badge&logo=gmail&logoColor=white)](codestargm@gmail.com)
-[![Skill](https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/CodeStarGM)
-[![Skill](https://img.shields.io/badge/Portfolio-ccff33?style=for-the-badge&logo=google&logoColor=white)][website]
 
 ## Super Powers
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>  <img alt="Adobe" src="https://img.shields.io/badge/Firebase%20-%23ff9933.svg?&style=for-the-badge&logo=firebase&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> 
