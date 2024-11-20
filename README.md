@@ -1,17 +1,17 @@
 
-### Hey Stranger, I'm Ghous Muhammad - aka [CodeStarGM][website]
+### 👋 Hey Stranger, I'm [Ghous][website]
 
-## Software Engineer, Senior Front-end Developer, Teacher, and a Guy who hates Universities🔥
+## Software Engineer, Senior Front-end Engineer, Freelance Web Development Expert 🌍✨
 <img style="width:400px; height:250px;" align="right" src="https://i.ibb.co/jVFmgZs/toothless.png"/>
 
-- 🖤 Linux Is Love
-- 😍 Helping Junior Devs
-- 🤓 Love To Solve Problems
-- 🔭 Building Apps To Help The World
-- 🌱 I’m currently learning Everything
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Master Data Structures & Algorithms
-- ⚡ Fun fact: I prefer Coke🥤 over Coffee☕
+- 🚀 Turning Your Digital Dreams into Rapid Business Growth
+- 😍 Empowering junior developers to grow and thrive
+- 🤓 Problem-solving enthusiast with a knack for challenges
+- 🔭 Crafting apps to make the world a better place
+- 🌱 Always learning and exploring new technologies
+- 👯 Open to collaborating with like-minded people
+- 🥅 2025 Goals: Build, scale, and succeed with SaaS
+- ⚡ Fun fact: I’ve never met a bug I couldn’t debug (eventually)!
 
 
 ## Super Powers
@@ -28,5 +28,5 @@
 
 
 
-[website]: https://codestargm.vercel.app/
+[website]: https://ghousmuhammad.vercel.app/
 
