@@ -1,5 +1,5 @@
 
-### 👋 Hey Stranger, I'm <a href="https://ghousmuhammad.vercel.app/" target="_blank">Ghous</a>
+### 👋 Hey Stranger, I'm <a href="#">Ghous</a>
 
 ## Software Engineer, Senior Front-end Engineer, Freelance Web Development Expert 🌍✨
 <img style="width:400px; height:250px;" align="right" src="https://i.ibb.co/jVFmgZs/toothless.png"/>
